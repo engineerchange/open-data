@@ -25,7 +25,7 @@ recommended open datasets
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets) - HUGE list of open datasets across a number of domains and studies
 * [Cool Datasets](https://cooldatasets.com/) - well, as it says, cool datasets
 * [Data for Everyone](https://www.figure-eight.com/data-for-everyone/) - assortment of data collections by Figure Eight (previously Crowd Flower)
-* [Data Is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) Spreadsheet from the Data Is Plural [Newsletter](https://tinyletter.com/data-is-plural/subscribe/validate)
+* [Data Is Plural](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0) - Spreadsheet from the Data Is Plural [Newsletter](https://tinyletter.com/data-is-plural/subscribe/validate)
 * [FiveThirtyEight Data](https://github.com/fivethirtyeight/data) - datasets from FiveThirtyEight stories
 * [Kaggle Datasets](https://www.kaggle.com/datasets) - variety of datasets related to data competitions at Kaggle.com
 * [KDNuggets Datasets](https://www.kdnuggets.com/datasets/index.html) - some datasets identified by KDNuggets
