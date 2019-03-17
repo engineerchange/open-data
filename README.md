@@ -39,7 +39,6 @@ recommended open datasets
 # Open Government
 
 * [Data.gov](https://data.gov) - federal government open datasets
-* * While the government is shutdown, [enigma](https://public.enigma.com) has a backup.
 
 # Miscellaneous
 * [Google Dataset Search](https://toolbox.google.com/datasetsearch)
